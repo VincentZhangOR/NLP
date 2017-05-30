@@ -1,0 +1,5 @@
+This folder contains code and data for learning between Katakana pronounciation and English pronounciation using EM algorithm.
+
+em.py uses non-dp version.
+
+em2.py uses dp version (forword-backword algorithm).
