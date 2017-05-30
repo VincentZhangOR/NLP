@@ -1,1 +1,4 @@
 This folder contains code for decoding words in Katakana pronounciations to English pronounciations.
+
+using command:
+cat jprons.txt | ./decode.py epron.probs epron-jpron.probs
