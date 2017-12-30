@@ -1,3 +1,6 @@
+# This file is a CKY parser for nlp program. CKY parser is a classical algorithm for NLP parsing. It uses dynamic programming
+# and backtrack skills. This code shows both domain knowledge of NLP and algorithm. This code is clean and clear, and it works 
+# well for real world parsing task.
 #!/usr/bin/env python
 
 import sys
